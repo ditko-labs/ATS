@@ -1,4 +1,4 @@
-# AST01 — Casos de teste para e-commerce
+# ATS01 — Casos de teste para e-commerce
 
 Primeira entrega da disciplina **Automação de Testes de Software**. O foco é o **projeto de casos de teste** para o cálculo do valor final de uma compra em um e-commerce, usando técnicas de teste caixa-preta.
 

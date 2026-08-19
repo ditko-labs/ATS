@@ -1,4 +1,4 @@
-# AST02 — Testes unitários com `unittest`
+# ATS02 — Testes unitários com `unittest`
 
 Segunda entrega da disciplina **Automação de Testes de Software**. O objetivo é praticar testes unitários em Python usando o módulo padrão [`unittest`](https://docs.python.org/3/library/unittest.html).
 
@@ -14,7 +14,7 @@ Implementar funções e classes simples e validá-las com testes automatizados, 
 ## Estrutura
 
 ```text
-AST02/
+ATS/ATS02/
 └── unit_tests/
     ├── docs/
     │   └── Exercício ATS02.pdf      # Enunciado da atividade
@@ -84,7 +84,7 @@ Classe `CarrinhoDeCompras` com `adicionar_item`, `remover_item` e `listar_itens`
 Na pasta `unit_tests`:
 
 ```bash
-cd AST02/unit_tests
+cd ATS/ATS02/unit_tests
 python3 -m unittest discover -s tests -p "test_*.py" -v
 ```
 

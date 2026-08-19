@@ -1,4 +1,4 @@
-# AST03 — Testes automatizados com `pytest`
+# ATS03 — Testes automatizados com `pytest`
 
 Terceira entrega da disciplina **Automação de Testes de Software**. O projeto implementa funções em Python com testes automatizados usando [`pytest`](https://docs.pytest.org/) e medição de cobertura com [`pytest-cov`](https://pytest-cov.readthedocs.io/).
 
@@ -14,7 +14,7 @@ Desenvolver e validar:
 ## Estrutura
 
 ```text
-AST03/
+ATS/ATS03/
 ├── core/
 │   ├── operacoes.py          # Funções matemáticas
 │   └── ecommerce.py          # Cálculo de preço final
@@ -62,7 +62,7 @@ Função `calcular_preco_final(preco_base, cupom=None, frete_gratis=False)`:
 ## Requisitos
 
 ```bash
-cd AST03
+cd ATS/ATS03
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
