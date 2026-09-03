@@ -3,5 +3,10 @@
         "path": "ATS/ATS03/assets/Exercício ATS03.pdf",
         "policy": "DocumentsPolicy",
         "justification": "Coursework ATS03 exercise PDF required by the assignment repository"
+    },
+    {
+        "path": "ATS/ATS05/assets/Exercicio_ATS05.pdf",
+        "policy": "DocumentsPolicy",
+        "justification": "Coursework ATS05 exercise PDF required by the assignment repository"
     }
 ]

@@ -22,6 +22,8 @@ Este repositório reúne as entregas ao longo do semestre, mantendo histórico c
     ├── ATS01/         # Projeto de casos de teste (documentação)
     ├── ATS02/         # Testes unitários com unittest
     ├── ATS03/         # Testes automatizados com pytest e cobertura
+    ├── ATS04/         # Fixtures e parametrização com pytest
+    ├── ATS05/         # Test-Driven Development com pytest
     └── ATS0N/         # Próximas entregas seguem o mesmo padrão
 ```
 
@@ -30,6 +32,8 @@ Este repositório reúne as entregas ao longo do semestre, mantendo histórico c
 | [ATS01](ATS/ATS01/README.md) | Casos de teste para e-commerce | Documentação / PDF | Entrega documental |
 | [ATS02](ATS/ATS02/README.md) | Testes unitários em Python | `unittest` | 4 exercícios práticos |
 | [ATS03](ATS/ATS03/README.md) | Pytest e cobertura de código | `pytest`, `pytest-cov` | Operações + e-commerce |
+| [ATS04](ATS/ATS04/README.MD) | Fixtures e parametrização | `pytest` | 4 exercícios práticos |
+| [ATS05](ATS/ATS05/README.md) | Test-Driven Development | `pytest` | Desconto, temperatura e estacionamento |
 
 ## Como navegar
 
