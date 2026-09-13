@@ -14,7 +14,7 @@ def gerenciador(repositorio):
 def test_adicionar_e_encontrar_usuario(gerenciador):
     gerenciador.registrar_usuario("Ryan")
 
-    usuario = gerenciador.encontrar_usuario("Felipe")
+    usuario = gerenciador.encontrar_usuario("Ryan")
 
     assert usuario == "Usuário Ryan encontrado"
 
