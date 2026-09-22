@@ -9,7 +9,8 @@ A matéria aborda fundamentos e prática de testes de software, com foco em:
 - técnicas de teste caixa-preta (classes de equivalência, valores-limite);
 - escrita de casos de teste e documentação de cenários;
 - testes unitários em Python com `unittest` e `pytest`;
-- validação de regras de negócio, exceções e cobertura de código.
+- validação de regras de negócio, exceções e cobertura de código;
+- automação de interface ponta a ponta (E2E) com Selenium.
 
 Este repositório reúne as entregas ao longo do semestre, mantendo histórico claro do que foi desenvolvido em cada atividade.
 
@@ -24,7 +25,8 @@ Este repositório reúne as entregas ao longo do semestre, mantendo histórico c
     ├── ATS03/         # Testes automatizados com pytest e cobertura
     ├── ATS04/         # Fixtures e parametrização com pytest
     ├── ATS05/         # Test-Driven Development com pytest
-    └── ATS0N/         # Próximas entregas seguem o mesmo padrão
+    ├── ATS06/         # Dublês de teste (mock e fake)
+    └── ATS08/         # Automação de interface com Selenium e Pytest
 ```
 
 | Atividade | Tema principal | Tecnologias | Documentação |
@@ -34,6 +36,8 @@ Este repositório reúne as entregas ao longo do semestre, mantendo histórico c
 | [ATS03](ATS/ATS03/README.md) | Pytest e cobertura de código | `pytest`, `pytest-cov` | Operações + e-commerce |
 | [ATS04](ATS/ATS04/README.MD) | Fixtures e parametrização | `pytest` | 4 exercícios práticos |
 | [ATS05](ATS/ATS05/README.md) | Test-Driven Development | `pytest` | Desconto, temperatura e estacionamento |
+| [ATS06](ATS/ATS06/README.md) | Dublês de teste | `pytest`, `unittest.mock` | mock, fake e ordem de chamadas |
+| [ATS08](ATS/ATS08/README.md) | Automação de interface E2E | `pytest`, `selenium` | Portal do colaborador |
 
 ## Como navegar
 
